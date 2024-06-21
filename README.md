@@ -1,2 +1,3 @@
 # thinking_functionally
-notes from book
+
+Notes on book thinking functionally with **Haskell**
